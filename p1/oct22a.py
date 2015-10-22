@@ -1,6 +1,6 @@
 _author_ = 'tcato'
 
-print("Hello World")
+print("Hola World")
 
 reply = -1
 while reply != 0:
